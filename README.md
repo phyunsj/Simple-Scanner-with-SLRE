@@ -40,7 +40,9 @@ zip=02120
 
 > $ make
 
-> $ ./scanner sightseeing.map
+Remap to `struct _addr` for your future use.
+
+> $ ./scanner sightseeing.map  
 
 
       
