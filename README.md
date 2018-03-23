@@ -39,6 +39,7 @@ zip=02120
 
 
 > $ make
+
 > $ ./scanner sightseeing.map
 
 
