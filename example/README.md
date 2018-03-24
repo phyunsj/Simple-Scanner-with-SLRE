@@ -1,7 +1,7 @@
 
 # Another Example
 
-Save Non-defualt Configuration Parameters & Apply thsoe again. (Perhapse going back to working condition?)
+Save Non-default Configuration Parameters & Apply thsoe again. (Perhapse going back to working condition?)
 
 Use Hadoop Configuration parameters as an example from http://ercoppa.github.io/HadoopInternals/HadoopConfigurationParameters.html.
 
