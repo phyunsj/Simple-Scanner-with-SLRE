@@ -1,0 +1,4 @@
+task.io.sort.mb=77
+map.sort.spill.percent=55
+task.io.sort.factor=245
+framework.name=/hello/world
