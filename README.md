@@ -46,8 +46,8 @@ Remap to `struct _addr` for your future use.
 
 ## Another Example
 
-Save Non-defualt Configuration Parameters & Apply thsoe again. (Perhapse going back to working condition?)
+Save NON-default Configuration Parameters & Apply thsoe again. (Perhapse going back to working condition?)
 
-Use Hadoop Configuration parameters as an example from http://ercoppa.github.io/HadoopInternals/HadoopConfigurationParameters.html.
+Use Hadoop Configuration parameters as an example. http://ercoppa.github.io/HadoopInternals/HadoopConfigurationParameters.html.
 
 `generator.py` generates C++ class identical to a table definition. 
