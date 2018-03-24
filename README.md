@@ -44,5 +44,10 @@ Remap to `struct _addr` for your future use.
 
 > $ ./scanner sightseeing.map  
 
+## Another Example
 
-      
+Save Non-defualt Configuration Parameters & Apply thsoe again. (Perhapse going back to working condition?)
+
+Use Hadoop Configuration parameters as an example from http://ercoppa.github.io/HadoopInternals/HadoopConfigurationParameters.html.
+
+`generator.py` generates C++ class identical to a table definition. 
