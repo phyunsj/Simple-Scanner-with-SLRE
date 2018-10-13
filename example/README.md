@@ -1,11 +1,14 @@
 
-# Another Example
+# Hadoop Configuration Parameter Example
 
-Save Non-default Configuration Parameters & Apply thsoe again. (Perhapse going back to working condition?)
+- Save Non-default Configuration Parameters & Apply thsoe again. (Perhapse going back to working condition?)
 
-Use Hadoop Configuration parameters as an example from http://ercoppa.github.io/HadoopInternals/HadoopConfigurationParameters.html.
+- Hadoop Configuration parameters are defined : http://ercoppa.github.io/HadoopInternals/HadoopConfigurationParameters.html.
 
-_**This example is nothing to do with Hadoop**_ 
+- `generator.py` generates C++ class identical to a table definition. 
+
+- _**This example is nothing to do with Hadoop**_ 
+
 
 ## Quick Start
 
