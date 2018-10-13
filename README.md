@@ -52,7 +52,7 @@ Remap to `struct _addr` for your future use.
 
 - `generator.py` generates C++ class identical to a table definition. 
 
-_**This example is nothing to do with Hadoop**_ 
+- _**This example is nothing to do with Hadoop**_ 
 
 ## Quick Start
 
